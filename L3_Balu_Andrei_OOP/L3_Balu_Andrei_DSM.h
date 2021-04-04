@@ -22,7 +22,7 @@ public:
 	DSM(int elementCount);
 
 	// Konstruiert eine Matrix aus gegebene Elemente
-	DSM(vector<string> elementNames);
+	DSM(const vector<string>& elementNames);
 
 	// Kopierkonstruktor
 	DSM(const DSM& dsm);
