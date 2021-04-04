@@ -26,7 +26,7 @@ DSM::DSM(int elementCount) {
 Konstruiert eine Matrix aus gegebene Elemente
 Wird erst uberpruft ob die Elemente eindeutig sind
 */
-DSM::DSM(vector<string> elementNames) {
+DSM::DSM(const vector<string>& elementNames) {
 	
 	for (int indexOne = 0; indexOne < elementNames.size()-1; indexOne++) {
 		for (int indexTwo = indexOne+1; indexTwo < elementNames.size(); indexTwo++) {
