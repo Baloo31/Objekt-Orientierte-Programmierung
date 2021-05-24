@@ -1,0 +1,6 @@
+lucica;Megane,Renault,2019,30000,5000.05,180,Benzin;+;Megane,B,2019,30000,10000,180,Benzin;-;
+andrei;Megane,Renault,2019,30000,5000.05,180,Benzin;+;Megane,B,2019,30000,10000,180,Benzin;+;Megane,Renault,2019,30000,5000.05,180,Benzin;-;
+luci;!,
+ion;Megane,Renault,2019,30000,5000.05,180,Benzin;+;Megane,Renault,2019,30000,5000.05,180,Benzin;-;
+cristian;Megane,Renault,2019,30000,5000.05,180,Benzin;-;
+gigel;!,

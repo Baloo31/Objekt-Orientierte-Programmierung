@@ -1,0 +1,6 @@
+Volkswagen,Golf,2019,30000,5000,180,Benzin
+Megane,Renault,2019,30000,5000.05,180,Benzin
+Megane,Renault,2019,30000,5000.05,180,Benzin
+Megane,Renault,2019,30000,5000.05,180,Benzin
+Audi,A4,2010,30000,7000,180,Benzin
+Ford,Focus,2011,10000,25000,180,Benzin
